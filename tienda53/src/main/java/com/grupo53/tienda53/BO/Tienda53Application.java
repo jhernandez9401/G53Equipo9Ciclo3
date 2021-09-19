@@ -1,4 +1,4 @@
-package com.grupo53.tienda53;
+package com.grupo53.tienda53.BO;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

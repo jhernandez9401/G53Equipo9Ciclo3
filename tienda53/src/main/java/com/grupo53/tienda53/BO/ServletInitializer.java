@@ -1,6 +1,7 @@
-package com.grupo53.tienda53;
+package com.grupo53.tienda53.BO;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
+
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
 public class ServletInitializer extends SpringBootServletInitializer {

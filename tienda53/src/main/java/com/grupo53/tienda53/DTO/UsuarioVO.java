@@ -47,13 +47,13 @@ public class UsuarioVO implements Serializable {
 	/**
 	 * @return the pasword
 	 */
-	public String getPasword() {
+	public String getPassword() {
 		return pasword;
 	}
 	/**
 	 * @param pasword the pasword to set
 	 */
-	public void setPasword(String pasword) {
+	public void setPassword(String pasword) {
 		this.pasword = pasword;
 	}
 	/**
